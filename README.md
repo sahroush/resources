@@ -87,6 +87,7 @@ Feel free to add more resources by submitting a pull request =)
 ### Tutorials
 
 * [Git tutorial by w3schools](https://www.w3schools.com/git/default.asp?remote=github)
+* [Git tutorial by atlassian](https://www.atlassian.com/git/tutorial)
 
 ### Video tutorials
 
