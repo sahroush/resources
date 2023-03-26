@@ -92,3 +92,5 @@ Feel free to add more resources by submitting a pull request =)
 ### Video tutorials
 
 * [Git movie](https://drive.google.com/file/d/1bi48QnW-uASTAEx8sdV5mvJsR41eUMed/view)
+* [Git tutorial by Jadi (persian)](https://faradars.org/courses/fvgit9609-git-github-gitlab)
+* [Version Control with Git on Coursera](https://www.coursera.org/learn/version-control-with-git)
