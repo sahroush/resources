@@ -67,6 +67,7 @@ Feel free to add more resources by submitting a pull request =)
 ### Books
 
 * [Linux pocket giude](https://drive.google.com/file/d/18CzHka00GZYWxxRP0V5jBU6o7scmDtEZ/view)
+* [Jadi's Linux Book (Persian)](https://linuxbook.ir/)
 
 ## Vi and Vim
 
