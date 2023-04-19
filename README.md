@@ -53,6 +53,10 @@ Feel free to add more resources by submitting a pull request =)
 * [GDB guide by amanlou](https://disk.yandex.com/i/F7r7qU6GF5la2Q)
 * [G++ guide by majid garoosi](https://www.aparat.com/v/QiulU)
 
+### Makefile
+
+* [makefiletutorial](https://makefiletutorial.com/)
+
 ## Linux
 
 ### Tutorials
