@@ -34,6 +34,12 @@ Feel free to add more resources by submitting a pull request =)
 
 ## C++
 
+### Project structures
+
+* [Project skeleton](https://github.com/embeddedartistry/project-skeleton)
+* [Canonical Project Structure](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2018/p1204r0.html)
+* [Pitchfork](https://github.com/vector-of-bool/pitchfork)
+
 ### Tutorials
 
 * [Learncpp](https://www.learncpp.com/)
